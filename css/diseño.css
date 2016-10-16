@@ -50,5 +50,6 @@ body, .logotipo{
   background-color: rgb(29, 81, 170);
   border-radius: 10px;
   color: white;
-  font-size: 15px
+  font-size: 15px;
+  color: rgb(228, 219, 218);
 }
